@@ -21,12 +21,14 @@ The PopularCard component functions similarly to the JobsCard component. It also
 ## SearchTab
 It consists of a TextInput component to which functions as a search bar, along with a filter icon to filter search results.
 
-**SIGNUP**
+## SIGNUP
 The sign-up screen collects a username and email from the user and passes these details to the Home Screen to be rendered during navigation.
+
 ![Screenshot_20240613-041219](https://github.com/Healer2003/rn-assignment4-11254384/assets/151882972/e721fd82-cf42-4c84-bd10-24b957454313)
 
-**HOME**
+## HOME
 The Home screen displays the user's username and email, as well as a categorized list of available jobs.
+
 ![Screenshot_20240613-041204](https://github.com/Healer2003/rn-assignment4-11254384/assets/151882972/17fb6228-e7e5-4f9a-bf04-efe4419cae06)
 
 
